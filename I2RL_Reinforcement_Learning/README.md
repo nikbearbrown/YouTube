@@ -1,33 +1,33 @@
-# Awesome Reinforcement Learning  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# I2RL  (Intro to Reinforcement Learning)  
 
-A curated list of resources dedicated to reinforcement learning.
-
-We have pages for other topics: [awesome-rnn](https://github.com/kjw0612/awesome-rnn), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
-
-Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http://github.com/kjw0612)
-
-We are looking for more contributors and maintainers!
-
-
-## Contributing
-Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
+Resources dedicated to learning reinforcement learning. In particular for [https://www.youtube.com/c/NikBearBrown](https://www.youtube.com/c/NikBearBrown) course on Reinforcement Learning (I2RL)
 
 ## Table of Contents
 
- - [Theory](#theory)
+ - [Bandit Problems](#bandit-problems)   
+   - [Optimal Stopping](#optimal-stopping)   
+   - [Bandit Lectures](#bandit-lectures)   
+   - [Bandit Books](#bandit-books)   
+   - [Multi-Armed Bandit Problem](#multi-armed-bandit-problem)    
+   - [Thompson Sampling](#thompson-sampling)   
+   - [Upper Confidence Bound (UCB)](#upper-confidence-bound)    
+   - [Thompson Sampling](#thompson-sampling)   
+   - [Eplison Greedy](#eplison-greedy)    
+   - [Contextual Bandits](#contextual-bandits)      
+ - [RL Theory](#theory)
    - [Lectures](#lectures)
    - [Books](#books)
    - [Surveys](#surveys)
    - [Papers / Thesis](#papers--thesis)
- - [Applications](#applications)
+ - [RL Applications](#applications)
    - [Game Playing](#game-playing)
    - [Robotics](#robotics)
    - [Control](#control)
    - [Operations Research](#operations-research)
    - [Human Computer Interaction](#human-computer-interaction)
- - [Codes](#codes)
- - [Tutorials / Websites](#tutorials--websites)
- - [Online Demos](#online-demos)
+ - [RL Codes](#codes)
+ - [RL Tutorials / Websites](#tutorials--websites)
+ - [RL Demos](#online-demos)
  - [Open Source Reinforcement Learning Platforms](#open-source-reinforcement-learning-platforms)
 
 ## Codes
