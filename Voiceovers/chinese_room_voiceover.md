@@ -12,14 +12,16 @@ Yet modern critics of Searle point out something Searle couldn't have anticipate
 
 The Chinese Room argument forces us to confront fundamental questions: Is understanding just very sophisticated information processing? Can meaning emerge from sufficiently complex syntax? As LLMs grow more capable, Searle's thought experiment remains as relevant as ever—not as a definitive answer, but as a crucial question about the nature of mind, meaning, and machine intelligence.
 
-
 # Chinese Room Argument - Key Points to Riff On
 
 ## The Original Thought Experiment (1980)
 • Person locked in room with Chinese symbol rulebook
 • Papers slide in → person follows rules → appropriate responses slide out
 • Zero understanding of what they're actually saying
-• Passes something like a Turing Test while having no comprehension
+• **Mini Turing Test**: Passes behavioral test of intelligence without any actual understanding
+  - Outside observers think: "This person speaks Chinese!"
+  - Inside reality: Total confusion, just following mechanical rules
+  - Shows the gap between appearing intelligent vs. being intelligent
 
 ## Searle's Core Insight
 • **Syntax ≠ Semantics**
