@@ -15,7 +15,7 @@ args = parser.parse_args()
 srefs = [
     "1613",          # Base style identifier
     "1400660455",    # Pastel Scribbles
-    "71",            # Related to Pastel Scribbles
+    "random",            # Related to Pastel Scribbles
     # Many more style references...
     # Shortened for readability ... add your own codes - in actual code these would all remain
 ]
