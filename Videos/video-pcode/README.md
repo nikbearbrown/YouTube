@@ -143,7 +143,7 @@ Adjust `-framerate` depending on your target look.
 
 ## Workflow Diagram (Mermaid)
 
-```mermaid
+```
 flowchart LR
     A[Source Video] --> B[Extract frames with sample_videos.py<br/>(every 111th frame)]
     B --> C[Frames (.png)]
